@@ -1,0 +1,33 @@
+.pops{
+    background-color:white;
+    height: 500px;
+    width: 1440px;
+    color:black;
+
+}
+
+.menu{
+    background-color:salmon;
+    height: 577px;
+    width: 1440px;
+    color: white;
+    display: block;
+}
+
+.image {
+    height: 639px;
+    width: 1440px;
+    text-align: center;
+    
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  li {
+    float: left;
+  }

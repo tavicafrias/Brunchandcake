@@ -1,0 +1,19 @@
+.header {
+width: 1440px;
+height: 131px;
+border: 1px solid #c3c3c3;
+display: flex;
+align-content: center;
+list-style: none;
+}
+
+ul{
+    list-style-type: none;
+    margin: 1000;
+    padding: 1000;
+    overflow: hidden;
+    background-color: white;
+  }
+  li {
+    float: left;
+  }
